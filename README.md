@@ -63,4 +63,5 @@ This task demonstrates how to apply logistic regression to a real-world healthca
 
 > Developed as part of the DeveloperHub Internship — Machine Learning Track (Task 3)  
 > Author: Zeeshan Shah  
-> [LinkedIn](https://linkedin.com/in/zeeshan506) | [GitHub](https://github.com/Zeeshan506)
+> [LinkedIn](https://www.linkedin.com/in/syed-zeeshan-azhar-254a24328/) | [GitHub](https://github.com/Zeeshan506)
+> Email: zeeshanazhar506@gmail.com
